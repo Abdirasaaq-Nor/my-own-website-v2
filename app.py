@@ -6,12 +6,12 @@ JOBS = [{
   'id': 1,
   'title': 'Web developer',
   'location': 'mogdisho, somalia',
-  'salary': 2300
+  'salary': 12300
 }, {
   'id': 2,
   'title': 'mobile developer',
   'location': 'hargiesa, somalia',
-  'salary': 5300
+  'salary': 9300
 }, {
   'id': 3,
   'title': 'data analysist',
